@@ -1,0 +1,41 @@
+/*!***************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[7].use[3]!./src/app/styles/about.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************/
+.about_container__lUEB4{
+    border-radius: 12px;
+    box-shadow: 0 6px 30px rgb(0.1 ,0 ,0 ,0.1);
+    color:white;
+    background-color: rgb(149, 149, 149);
+    height: 750px;
+}
+.about_header__zDYMH{
+    font-size: 2.2rem;
+    color: yellow;
+    background-color: black;
+    height: 50px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 40px;
+
+      
+
+    }
+    .about_ul__G2FEj{
+       
+     text-align: center;
+     margin-top: 10%;
+     color: black;
+     font-weight: 700;
+     font-size: larger;
+     line-height: 1.8;
+   
+    }
+.about_p__R5rOV{
+   text-align: center;
+   /* margin-top: 5%; */
+   line-height: 1.8;
+   margin: 20px 0;
+   font-size: 1.2rem;
+
+}
+
